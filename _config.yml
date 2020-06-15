@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 #내용추가
 remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "블로그 제목"
+title                    : "블로그"
 title_separator          : "-"
-subtitle                 : "블로그 부재"
-name                     : "이름"
-description              : "An amazing website."
+subtitle                 : "이재원"
+name                     : "이재원"
+description              : "블로그 입니다."
 url                      : "https://nangpas.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,11 +96,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jaewon_Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "(주)winitech"
+  location         : "대구 달서구"
+  email            : "nangpas@naver.com" 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
