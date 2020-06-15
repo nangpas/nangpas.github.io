@@ -19,9 +19,9 @@ remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "블로그"
+title                    : "무조건 쓰는 블로그"
 title_separator          : "-"
-subtitle                 : "이재원"
+subtitle                 : "-"
 name                     : "이재원"
 description              : "블로그 입니다."
 url                      : "https://nangpas.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
